@@ -1,5 +1,6 @@
 # work day planner
 ## Deployed Link To The Planner
+https://adamcg123.github.io/work-day-planner/
 
 ## How Does It Work?
 It works by using the moment.js api and JQuery to set up for the day. This planner saves your
