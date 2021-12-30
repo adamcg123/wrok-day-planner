@@ -15,4 +15,4 @@ local storage, JQuery, javascript, moment.js, css html
 when you first use this every time block will be grey.
 But when you use it throughout the day it will start to look like the Gif below
 
-![image](./
+![image](./05-third-party-apis-homework-demo.gif)
